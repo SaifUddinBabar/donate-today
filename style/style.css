@@ -37,7 +37,7 @@ body {
   height: 100vh;
   background-image: 
     linear-gradient(0deg, #121212 0%, rgba(18, 18, 18, 0) 100%),
-    url('./images/donation10.jpg');
+    url('../images/donation10.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
